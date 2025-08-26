@@ -31,15 +31,13 @@ Este repositório foi criado como parte das atividades da faculdade, com o objet
 
 ---
 
-## 🌌 Estilo Visual  
+## 🌌 Visual Futurista  
+
+> *"A tecnologia só é poderosa quando conseguimos usá-la para aprender e criar."*  
 
 <p align="center">
-  <img src="https://media.giphy.com/media/YQitE4YNQNahy/giphy.gif" width="600" alt="Cyberpunk City">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" alt="AI Thinking">
 </p>
-
-> *"O futuro pertence àqueles que aprendem a se reinventar."*  
-
----
 
 ## 📫 Contato  
 
