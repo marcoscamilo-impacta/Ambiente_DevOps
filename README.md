@@ -1,8 +1,8 @@
-# 🤖 Projeto de Estudo – DevOps
+# ⚡ Projeto de Estudo – DevOps  
 
-![AI Banner](https://i.ibb.co/3dM5m1v/ai-banner.gif)  
+![Cyber Banner](https://i.ibb.co/7jqP0tF/cyberpunk-banner.gif)  
 
-Este repositório foi criado como parte das atividades da faculdade, com o objetivo de praticar os conceitos básicos de **Git** e **GitHub**, além de estilizar arquivos `README.md` de forma criativa, moderna e inspirada em **Inteligência Artificial**.  
+Este repositório foi criado como parte das atividades da faculdade, com o objetivo de praticar os conceitos básicos de **Git** e **GitHub**, além de aprender a estilizar arquivos `README.md` com um visual mais **futurista e moderno**.  
 
 ---
 
@@ -16,28 +16,28 @@ Este repositório foi criado como parte das atividades da faculdade, com o objet
 
 ## 🚀 Sobre o Projeto  
 
-🔹 Este projeto não possui código, mas tem um objetivo essencial: **aprender a criar READMEs claros, bonitos e profissionais**.  
-🔹 O foco é explorar **Markdown**, **badges** e **design moderno**, trazendo um estilo inspirado em projetos de **IA e tecnologia**.  
-🔹 Também serve como prática para **versionamento com Git** e **publicação no GitHub**.  
+✨ Este projeto não contém código ou aplicação prática.  
+🎯 O foco é **aprender Markdown** e como deixar um `README.md` mais organizado e visualmente atraente.  
+⚡ A estética aqui é inspirada em **design futurista / cyberpunk**, apenas para prática de estilo.  
 
 ---
 
-## 🛠️ Tecnologias & Conceitos  
+## 🛠️ Conceitos Explorados  
 
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
-![IA](https://img.shields.io/badge/Artificial%20Intelligence-6A5ACD?style=for-the-badge&logo=OpenAI&logoColor=white)  
+![Markdown](https://img.shields.io/badge/Markdown-1f1f1f?style=for-the-badge&logo=markdown&logoColor=white)  
+![Git](https://img.shields.io/badge/Git-ff6c37?style=for-the-badge&logo=git&logoColor=white)  
+![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white)  
+![Design Futurista](https://img.shields.io/badge/Futuristic%20Design-8000ff?style=for-the-badge&logoColor=white)  
 
 ---
 
-## 🌌 Visual Futurista  
-
-> *"A tecnologia só é poderosa quando conseguimos usá-la para aprender e criar."*  
+## 🌌 Estilo Visual  
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" alt="AI Thinking">
+  <img src="https://media.giphy.com/media/YQitE4YNQNahy/giphy.gif" width="600" alt="Cyberpunk City">
 </p>
+
+> *"O futuro pertence àqueles que aprendem a se reinventar."*  
 
 ---
 
